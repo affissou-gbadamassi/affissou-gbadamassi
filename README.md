@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**affissou-gbadamassi/affissou-gbadamassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Affissou Gbadamassi
 
-Here are some ideas to get you started:
+I'm a Master's student in Cybersecurity with a strong interest in **Cloud Security, Network Defense, and Incident Response**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is my **technical portfolio**, showcasing hands-on labs and projects from my coursework, including:
+
+- Enterprise Security Infrastructure Design
+- Active Directory installation and configuration
+- System hardening and backup/restore
+- Future projects in cloud security, IDS/IPS, and vulnerability management
+  
+
+Update Readme
