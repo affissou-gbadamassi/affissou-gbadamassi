@@ -1,39 +1,93 @@
-## Hi I'm Affissou!
-I'm a Master's student in Cybersecurity with a strong interest in **Cloud Security, Network Defense, and Incident Response**.
-This GitHub profile is my **technical portfolio**, showcasing hands-on labs and projects from my coursework, including:
-<h2>👨‍💻 Cybersecurity Projects:</h2>
- - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
- - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+# Hi, I'm Affissou! 👋
 
-<h2> 🤳 Certifications :</h2>
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<h2> MY CURRENT PROJECT :</h2>
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+I earned my **Master's degree in Cybersecurity in 2026** and have a strong interest in **Network Security, Cybersecurity, and Cloud Security**.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub profile is my **technical portfolio**, where I document hands-on labs and projects demonstrating my practical cybersecurity and networking skills.
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity & Networking Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Update Readme
+* **Active Directory Lab**
+
+  * Windows Server 2019
+  * Active Directory Domain Services
+  * User and Group Management
+  * Group Policy
+  * Windows Client Integration
+
+* **Vulnerability Assessment Lab**
+
+  * Kali Linux
+  * Nessus
+  * Nmap
+  * Nikto
+  * OWASP ZAP
+  * Metasploitable 2
+  * Kioptrix
+
+* **Network Security Lab**
+
+  * pfSense Firewall
+  * Network Segmentation
+  * Firewall Rules
+  * Network Monitoring
+
+* **Penetration Testing Lab**
+
+  * Reconnaissance and Enumeration
+  * Vulnerability Scanning
+  * Exploitation in Controlled Lab Environments
+  * Security Findings and Remediation
+
+## 🌐 Networking Skills
+
+* TCP/IP
+* IPv4 Addressing and Subnetting
+* VLANs
+* Routing and Switching
+* DHCP and DNS
+* NAT/PAT
+* Access Control Lists (ACLs)
+* Network Troubleshooting
+* Cisco IOS
+
+## 🔧 Tools & Technologies
+
+**Security:** Kali Linux, Nmap, Nessus, Nikto, OWASP ZAP, Wireshark
+
+**Networking:** Cisco Packet Tracer, pfSense, TCP/IP, VLANs, Routing & Switching
+
+**Systems:** Windows Server 2019, Active Directory, Windows 10, Ubuntu Linux
+
+**Virtualization:** Oracle VirtualBox, VMware Workstation
+
+**Security Frameworks:** NIST Cybersecurity Framework (CSF) 2.0, ISO/IEC 27001, HIPAA Security Rule
+
+## 📚 Currently Developing
+
+I am continuing to strengthen my practical skills in:
+
+* Advanced networking
+* Network security
+* Cloud computing
+* AWS
+* Cloud security
+* Security automation
+
+## 🎯 Career Focus
+
+My long-term goal is to build expertise in **Cloud Security Engineering and Cloud Security Architecture**.
+
+I am strengthening my networking, system administration, cybersecurity, and cloud skills through hands-on projects that demonstrate real-world technical abilities.
+
+## 📂 Portfolio
+
+Each repository in my GitHub portfolio will include:
+
+* Project overview
+* Network or system architecture
+* Lab environment
+* Configuration steps
+* Screenshots
+* Security findings
+* Troubleshooting experience
+* Lessons learned
