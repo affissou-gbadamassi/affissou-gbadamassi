@@ -4,6 +4,11 @@ I earned my **Master's degree in Cybersecurity in 2026** and have a strong inter
 
 This GitHub profile is my **technical portfolio**, where I document hands-on labs and projects demonstrating my practical cybersecurity and networking skills.
 
+## 🏆 Certifications
+
+- **Cisco Certified Network Associate (CCNA)** — Cisco
+- **CompTIA Network+** — CompTIA
+
 ## 🛡️ Cybersecurity & Networking Projects
 
 * **Active Directory Lab**
