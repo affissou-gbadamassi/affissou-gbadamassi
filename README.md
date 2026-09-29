@@ -1,8 +1,8 @@
 # Hi, I'm Affissou! 👋
 
-I earned my **Master's degree in Cybersecurity in 2026** and have a strong interest in **Network Security, Cybersecurity, and Cloud Security**.
+I earned my **Master's degree in Cybersecurity in 2026** and hold **Cisco CCNA** and **CompTIA Network+** certifications. I am building hands-on experience in **enterprise networking, network security, cybersecurity, and cloud security**.
 
-This GitHub profile is my **technical portfolio**, where I document hands-on labs and projects demonstrating my practical cybersecurity and networking skills.
+This GitHub profile is my **technical portfolio**, where I document hands-on labs and projects involving **Cisco networking, Active Directory, vulnerability assessment, penetration testing, and security administration**.
 
 ## 🏆 Certifications
 
