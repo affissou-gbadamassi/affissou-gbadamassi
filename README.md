@@ -11,6 +11,20 @@ This GitHub profile is my **technical portfolio**, where I document hands-on lab
 
 ## 🛡️ Cybersecurity & Networking Projects
 
+* **Enterprise Networking Lab**
+
+  * Cisco Packet Tracer Enterprise Network
+  * VLAN Segmentation and 802.1Q Trunking
+  * Inter-VLAN Routing
+  * DHCP and IP Addressing
+  * Router-on-a-Stick
+  * HQ-to-Branch WAN Connectivity
+  * Secure WPA2 Wireless Networking
+  * Voice VLAN Configuration
+  * Static Routing and End-to-End Connectivity
+  * Firewall Security and Simulated Internet Access
+  * [View Enterprise Networking Lab](https://github.com/affissou-gbadamassi/enterprise-networking-lab)
+
 * **Active Directory Lab**
 
   * Windows Server 2019
